@@ -1,0 +1,4 @@
+*.env
+*.idea
+*-checkpoint.ipynb
+.ipynb_checkpoints
